@@ -1,7 +1,6 @@
 # LA Galaxy  Weekend 8/13/21 - 8/15/21
 
-<img align="right" width="100" height="100" src="./JPG/breakers.PNG" alt="breakers afc image" />
-
+<img align="right" width="100" height="100" src="./JPG/galaxy.JPG" alt="breakers afc image" />
 
 ## Parking Info
 
