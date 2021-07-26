@@ -1,10 +1,9 @@
 # LA Galaxy  Weekend 8/13/21 - 8/15/21
 
+<img align="left" width="100" height="100" src="./JPG/1st_place.JPG" alt="breakers afc image" />
 <img align="right" width="100" height="100" src="./JPG/galaxy.JPG" alt="breakers afc image" />
 
-## Parking Info
 
-- 
 
 
 ## Game Schedule Team ID #2267
@@ -27,6 +26,11 @@ Sun | 8/08/21 | | | | | d based upon previous results
 - Capacity: 27,000
 - [Events Stadium Boxing 8/14/21 7pm](https://www.dignityhealthsportspark.com/events/detail/premier-boxing-champions-rigondeaux-vs-casimero)
 	- [Tickets](https://tix.axs.com/VGOPOgAAAAACcVxLAgAAAACI%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fCGRoc3AyMDE5AP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f/shop/search?locale=en-US&_ga=2.90908249.212945798.1627334404-1559649143.1627334404&skin=dhsp)
+
+## Parking Info
+-
+
+
 
 ## Hotel Info
 - Torrance Marriott Redondo Beach
