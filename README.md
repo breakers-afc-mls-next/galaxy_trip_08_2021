@@ -21,7 +21,6 @@ Sun | 8/08/21 | | | | | d based upon previous results
 - [Dignity Health Sports Park (aka Home Depot Center, and StubHub center](https://en.wikipedia.org/wiki/Dignity_Health_Sports_Park)
 - [Website stadium](https://www.dignityhealthsportspark.com)
 - Address: 18400 S Avalon Blvd, Carson, CA 90746
-- Departments: Dignity Health Tennis Center
 - Phone: (310) 630-2000
 - Capacity: 27,000
 - [Events Stadium Boxing 8/14/21 7pm](https://www.dignityhealthsportspark.com/events/detail/premier-boxing-champions-rigondeaux-vs-casimero)
